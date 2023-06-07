@@ -1,16 +1,16 @@
-### YO 👋
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTSFTm5-c2PaGI-jK6Cp5qR1u25fxrKFF5SBlsZLb6Fdg1anlCGpXoL10GpRgZesDafY&usqp=CAU" alt="Deskripsi gambar" width="40%" align="left">
+  <img src="https://media.tenor.com/p9yymRzDWEcAAAAC/anime-boy-smoking.gif" alt="Deskripsi gambar" width="40%" align="left">
+<h2 align="left">WELCOME TO MY PROFIL 👋</h2>  
 <h3 align="left">My Name Is Hasbi Assidiki</h3>
 <h3 align="left">I am a Student</h3>  
 
 
-- 🌱 I’m currently learning **Python, C++, MySQL**
+🌱 I’m currently learning **Python, C++, MySQL**
 
-- 📫 How to reach me **assidikihasbi40@gmail.com**
+📫 How to reach me **assidikihasbi40@gmail.com**
 
-- ✌️ **If you have stopped by, don't forget to pay the parking fee**
+✌️ **If you have stopped by, don't forget to pay the parking fee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
