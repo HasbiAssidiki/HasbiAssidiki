@@ -14,9 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/hasbi_assdiki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@massa_gakenal" height="30" width="40" /></a>
-<a href="https://facebook.gg/Hasbi (Pendol)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mikael Rivaldo" height="30" width="40" /></a>
-<a href="https://whatsapp.gg/https://wa.me/081617248312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/081617248312" height="30" width="40" /></a>
-
+<a href="https://www.instagram.com/hasbi_assdiki/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+<a href="https://wa.me/6281617248312">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Logo" height="30" width="40">
+  <a href="https://www.facebook.com/Hasbi(Pendol">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" height="30" width="40">
 
 </p>
