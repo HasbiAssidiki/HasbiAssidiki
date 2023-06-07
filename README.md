@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.instagram.com/hasbi_assdiki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@massa_gakenal" height="30" width="40" /></a>
 <a href="https://facebook.gg/Hasbi (Pendol)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mikael Rivaldo" height="30" width="40" /></a>
-<a href="https://whatsapp.gg/https://wa.me/081617248312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/089501443935" height="30" width="40" /></a>
+<a href="https://whatsapp.gg/https://wa.me/081617248312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/081617248312" height="30" width="40" /></a>
 
 
 </p>
