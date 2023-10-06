@@ -6,7 +6,7 @@
 <h3 align="left">I am a Student</h3>  
 
 
-🌱 I’m currently learning **Python, C++, MySQL**
+🌱 I’m currently learning **Python, C++, MySQL,HTML,JAVA**
 
 📫 How to reach me **assidikihasbi40@gmail.com**
 
